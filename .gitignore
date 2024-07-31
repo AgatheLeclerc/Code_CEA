@@ -1,0 +1,8 @@
+*.root
+*.d
+*.so
+*.pcm
+*.cxx~
+build
+NewFiles
+OldFiles
