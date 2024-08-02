@@ -1,7 +1,9 @@
 # Code_Stage
 
+This is the code I wrote during my M1 internship at CEA, to study the neutrino-nucleus simulations with the NEUT simulation files
+
 ## Disclaimer
-* I am a beginner in ROOT C++ so there is probably in the code some mistakes
+* I am a beginner in ROOT C++ so there is probably some mistakes in the code 
 * The code is not optimised, there are a lot of void function that are slight variation of each other
 * The files used in the code are to heavy to be put in the Github
 
